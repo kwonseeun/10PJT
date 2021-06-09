@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/model2/mvc/common/Page.java=EUC-KR
+encoding//src/main/java/com/model2/mvc/common/Search.java=EUC-KR
+encoding//src/main/java/com/model2/mvc/common/aspect=EUC-KR
+encoding//src/main/java/com/model2/mvc/common/aspect/LogAspectJ.java=EUC-KR
+encoding//src/main/java/com/model2/mvc/common/web/LogonCheckInterceptor.java=EUC-KR
+encoding//src/main/java/com/model2/mvc/web/user/UserController.java=EUC-KR
+encoding//src/main/java/com/model2/mvc/web/user/UserRestController.java=EUC-KR
